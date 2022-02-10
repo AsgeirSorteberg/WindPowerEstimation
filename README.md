@@ -30,8 +30,8 @@ Short description of the functions:
 - WINDDIR_Mean_FrequentSector.m: Calculates the mean of the prevailing wind-direction sector
 
 
-Equations and a more detailed description of the calculations is given in the papers below.
-Solbrekke I. M. and Sorteberg A. (2022): The 3-km NORwegian reanalysis’ Wind Power data 1 set: NORA3-WP. Submitted to Scientific Data - https://www.nature.com/sdata/
+Equations and a more detailed description of the calculations are given in the papers below.
+
 
 **References**
 
