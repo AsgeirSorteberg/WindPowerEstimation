@@ -38,3 +38,6 @@ Equations and a more detailed description of the calculations are given in the p
 Solbrekke I. M. and Sorteberg A. (2022): The 3-km NORwegian reanalysis’ Wind Power data 1 set: NORA3-WP. Submitted to Scientific Data - https://www.nature.com/sdata/
 
 Solbrekke, I.M., Sorteberg, A. and Haakenstad, H. (2021): The 3 km Norwegian reanalysis (NORA3) – a validation of offshore wind resources in the North Sea and the Norwegian Sea. Wind Energ. Sci., 6, 1501–1519, 2021 https://doi.org/10.5194/wes-6-1501-2021
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6138696.svg)](https://doi.org/10.5281/zenodo.6138696)
+
