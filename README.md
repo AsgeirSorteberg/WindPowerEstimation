@@ -3,7 +3,7 @@ The WindPowerEstimation repository is a library of functions for calculating var
 
 Short description of the functions:
 
-- WIND_calc_wndshr_wndgrad.m: Calculates the vertical wind shear
+- WIND_calc_WndShear.m: Calculates the vertical wind shear
 
 - WIND_calc_WeibullParams.m: Calculates theWeibull shape, scale and standard deviation
 
@@ -25,9 +25,9 @@ Short description of the functions:
 
 - WIND_calc_PercRatedProd.m: Calculates the time share the power production is rated
 
-- WIND_calc_NoProd.m: Calculates the time share the power production is zero
+- WIND_calc_PercZeroProd.m: Calculates the time share the power production is zero
 
-- WINDDIR_Mean_FrequentSector.m: Calculates the mean of the prevailing wind-direction sector
+- WIND_calc_WndDirSector.m: Calculates the mean of the prevailing wind-direction sector
 
 
 Equations and a more detailed description of the calculations are given in the papers below.
