@@ -1,4 +1,7 @@
 # WindPowerEstimation
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6138696.svg)](https://doi.org/10.5281/zenodo.6138696)
+
 The WindPowerEstimation repository is a library of functions for calculating variables related to wind resources and wind power
 
 Short description of the functions:
@@ -39,5 +42,5 @@ Solbrekke I. M. and Sorteberg A. (2022): The 3-km NORwegian reanalysis’ Wind P
 
 Solbrekke, I.M., Sorteberg, A. and Haakenstad, H. (2021): The 3 km Norwegian reanalysis (NORA3) – a validation of offshore wind resources in the North Sea and the Norwegian Sea. Wind Energ. Sci., 6, 1501–1519, 2021 https://doi.org/10.5194/wes-6-1501-2021
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6138696.svg)](https://doi.org/10.5281/zenodo.6138696)
+
 
